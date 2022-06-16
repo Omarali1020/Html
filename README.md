@@ -1,4 +1,5 @@
-# Html
-This is to learn Html
-i am learing html form educative 
-this the course: https://www.educative.io/courses/learn-html-css-javascript-from-scratch/B892KY261z2
+- 👋 Hi, I’m @Omarali1020
+- 👀 I’m interested in html,css,python
+- 🌱 I’m currently learning css
+- 💞️ I’m looking to collaborate on some basic html work
+- 📫 How to reach me on my email oa2236953@gmail.com
